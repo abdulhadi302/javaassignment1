@@ -1,0 +1,38 @@
+                        Algorithm 1
+
+
+Find the highest mark and the lowest mark and print the result on the screen !
+
+
+STEP1:  Start
+STEP 2: Declare Float highestlowest marks
+STEP 3: Initialize high Is equal to 0 and low is equal to 100
+STEP 4: Declare array highlow in equl to (0,0)
+STEP 5: Set for loop for marks for (int i=0;i<marks.length;i++)
+STEP 6: If marks greater  then high 
+STEP 7: Then high is equal to marks 
+STEP 8: If marks less then low
+STEP 9: Then low is equal to marks
+STEP 10: If highlow is equal to high
+STEP 11: And if hoghlow is equal to low
+STEP 12: Then return highlow
+
+
+
+
+
+
+
+                        Algorithm 2
+
+Calculate the mean and standard deviation of the marks and print the result on the screen!
+STEP 1: Start
+STEP 2: Initialize highlowest is equal highlowest(marks)
+STEP 3: Print highest Marks.
+STEP 4: Declare mean  is equal calculatemean(marks)
+STEP 5: Print The Mean
+STEP 6: Print The Standard Deviation.
+
+
+    
+
